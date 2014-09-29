@@ -1,4 +1,4 @@
-AuthUserFile ../private/.htpasswd
+AuthUserFile ../../private/.htpasswd
 AuthType Basic
 AuthName "My Secret Folder"
 Require valid-user
